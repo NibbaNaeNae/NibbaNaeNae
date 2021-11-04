@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NibbaNaeNae
 - 👀 I’m interested in ai and machine level code
-- 🌱 I’m currently learning python and later C
+- 🌱 I know Python and learning Rust
 - 💞️ I’m looking to collaborate on doin' ur mom 
 - 📫 How to reach me (don't reach me)
 
